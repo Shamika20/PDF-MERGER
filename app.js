@@ -41,11 +41,4 @@ app.listen(
 )
 
 
-/*
-await merge.save(`public/${d}.pdf`)
-and response.redirect(`http://localhost:3000/static/${d}.pdf`)
-iska .pdf see pehela vala name should be same i.e ${d}.pdf of merge.save
-and ${d}.pdf of redirect should be same
-*/
-
 
